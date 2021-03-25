@@ -760,45 +760,6 @@
           "_anchor": "contacts3-6"
         },
         {
-          "_params": {
-            "account": "ascom.tecpira",
-            "showTitle": true,
-            "layoutGridRadio": true,
-            "imagesPerRowGrid": "5",
-            "rows": 2,
-            "showMoreButton": true,
-            "layoutSliderRadio": false,
-            "imagesPerRowSlider": 4,
-            "spacing": "3",
-            "fullWidth": false,
-            "paddingTop": "1",
-            "paddingBottom": 4,
-            "bgColorRadio": false,
-            "bgColor": "#fafafa",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1920.png",
-            "overlay": true,
-            "overlayColor": "#fafafa",
-            "overlayOpacity": 0.6
-          },
-          "title": "Visite nosso <b>Instagram</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Mostrar mais</a>",
-          "display2": "display-2",
-          "display4": "display-4",
-          "alias": "instagram-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "instagram-feed-block",
-          "_sourceTheme": "mobirise5",
-          "_anchor": "instagram-feed-block-7",
-          "_styles": {
-            ".inst__title": {
-              "color": "#4479d9"
-            }
-          }
-        },
-        {
           "alias": false,
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
