@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-03-11_1606",
+    "name": "ASCOM TEC PIRA",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -43,7 +43,15 @@
     "imageResize": true,
     "uniqCompNum": 9,
     "versionPublish": "5.3.0",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": false,
+    "mbrsiteDomain": "bhhj6pkb97",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
@@ -770,6 +778,9 @@
             },
             "& when (@bg-type = 'color')": {
               "background-color": "@bg-value"
+            },
+            ".media-container-row .mbr-text": {
+              "color": "#ffffff"
             }
           },
           "_name": "footer7",
